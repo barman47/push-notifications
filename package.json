@@ -1,0 +1,20 @@
+{
+  "name": "push-notifications",
+  "version": "1.0.0",
+  "description": "Push notifications with service workers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "express"
+  ],
+  "author": "Uzoanya Dominic",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "web-push": "^3.3.3"
+  }
+}
